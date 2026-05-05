@@ -23,10 +23,10 @@ El análisis se desarrolló en las siguientes etapas:
 ---
 
 ## Contenido del repositorio
-- 📊 `codigo/` → Scripts en Python utilizados para el análisis
-- 📄 `ensayo/` → Documento final del proyecto
-- 📽️ `presentacion/` → Presentación del análisis
-- 🗂️ `datos/` → Bases de datos utilizadas
+- 📊 `CODIGO/` → Scripts en Python utilizados para el análisis
+- 📄 `ENSAYO/` → Documento final del proyecto
+- 📽️ `PRESENTACION/` → Presentación del análisis
+- 🗂️ `BASES DE DATOS/` → Bases de datos utilizadas
 
 ---
 
